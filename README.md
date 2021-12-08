@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @davidphoenyx
-- 👀 I’m interested in .Web Dev
+- 👀 I’m interested in Web Dev
 - 🌱 I’m currently learning NodeJS
 - 💞️ I’m looking to collaborate on Web Services
 - 📫 How to reach me (davidphoenyx@protonmail.com)
