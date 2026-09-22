@@ -2,8 +2,6 @@
 
 #### Sou estudante de sistemas, gosto particularmente de desenvolvimento WEB, mas (até o momento) não tenho preferência por BACK ou FRONT. Contanto que me dê prazer em expor a criatividade, o desafio estará aceito! ####
 
-![David Phoenyx's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidphoenyx&show_icons=true&theme=merko)
-
 ## 👨‍💻 Linguagens e tecnologias que conheço ou trabalho. ##
 
 <div style="display: inline-block">
